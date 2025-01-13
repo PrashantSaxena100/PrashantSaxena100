@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/prashan72525178" target="blank"><img src="https://img.shields.io/twitter/follow/prashan72525178?logo=twitter&style=for-the-badge" alt="prashan72525178" /></a> </p>
 
-- 🔭 I’m currently working on **Build a Login/Logout System With Role Based Admin Panel**
-
 - 🌱 I’m currently learning **Java, Java Script, React**
 
 - 👯 I’m looking to collaborate on **Backend Projects,Full Stack Web Applications,Frontend Projects,Mobile Developement,AI and Chatbots**
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **saxena.prashant2002@gmail.com [!Whatsapp]([![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9667293647)**
 
-- 📄 Know about my experiences [Resume Link: https://drive.google.com/file/d/1rg3GDIWoN7cWD49a9yJG1mCQXHVwJWpR/view?usp=sharing](Resume Link: https://drive.google.com/file/d/1rg3GDIWoN7cWD49a9yJG1mCQXHVwJWpR/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link: https://drive.google.com/file/d/1RXS6ix2ifxVU64eAJBGPfOzhPq1npkxe/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
