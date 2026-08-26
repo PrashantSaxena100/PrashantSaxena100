@@ -118,12 +118,8 @@ Built full-stack features across multiple modules, implemented JWT-based auth an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrashantSaxena100&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Prashant's GitHub stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantSaxena100&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantSaxena100&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img width="49%" src="https://github-readme-stats-pearl-zeta-82.vercel.app/api?username=PrashantSaxena100&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Prashant's GitHub stats" />
+  <img width="40%" src="https://github-readme-stats-pearl-zeta-82.vercel.app/api/top-langs?username=PrashantSaxena100&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
