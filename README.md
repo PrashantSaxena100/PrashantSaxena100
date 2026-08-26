@@ -123,11 +123,7 @@ Built full-stack features across multiple modules, implemented JWT-based auth an
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrashantSaxena100&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrashantSaxena100&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantSaxena100&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
